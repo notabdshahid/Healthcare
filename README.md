@@ -11,4 +11,4 @@ Pandas: For data manipulation and preprocessing.
 Matplotlib: For visualizations and plotting.
 Joblib: For saving and loading machine learning models.
 ## How to Run the Application
-You can run the project for yourself [here]([https://uscrimeanalysis.streamlit.app/](https://kihealthcare.streamlit.app/))
+You can run the project for yourself [here](https://kihealthcare.streamlit.app/)
