@@ -11,6 +11,4 @@ Pandas: For data manipulation and preprocessing.
 Matplotlib: For visualizations and plotting.
 Joblib: For saving and loading machine learning models.
 ## How to Run the Application
-Launch the Streamlit Web App: Once you've installed the dependencies, you can run the app using the following command: 
-streamlit run app.py
-
+You can run the project for yourself [here]([https://uscrimeanalysis.streamlit.app/](https://kihealthcare.streamlit.app/))
